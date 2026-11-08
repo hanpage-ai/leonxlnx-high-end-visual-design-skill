@@ -28,4 +28,4 @@ AI가 코드로 만들었을 때 "왜 이렇게 싸 보여?"라고만 할 때,
 
 ## 원본 출처
 
-- **URL**: [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill/blob/taste-skill-v2/skills/soft-skill/SKILL.md)
+- **URL**: [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill/tree/taste-skill-v2/skills/soft-skill)
